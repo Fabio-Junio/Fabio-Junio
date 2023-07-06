@@ -8,7 +8,14 @@
 
 ![Fabio-Junio GitHub stats](https://github-readme-stats.vercel.app/api?username=fabio-junio&show_icons=true&theme=radical)
 
-<!- Cometário ->
+<!-- 
+  Segue o link do youtube para criar os menus:
+        https://github.com/anuraghazra/github-readme-stats
+        Site para gerar os badges:
+        https://dev.to/envoy_/150-badges-for-github-pnk
+        Site para gerar emogi:
+        https://emojipedia.org/victory-hand/
+-->
 
 ### Tecnologias
 
