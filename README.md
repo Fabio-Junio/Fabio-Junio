@@ -8,6 +8,8 @@
 
 ![Fabio-Junio GitHub stats](https://github-readme-stats.vercel.app/api?username=fabio-junio&show_icons=true&theme=radical)
 
+<!- Cometário ->
+
 ### Tecnologias
 
 <div style="display: inline_block"><br/>
