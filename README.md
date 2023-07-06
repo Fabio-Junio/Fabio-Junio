@@ -4,7 +4,7 @@
 
 [![Site](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)]
 
-[![Site](https://img.shields.io/website-up-down-green-red/http/monip.org.svg website:http://fabiojunio.cloud)]
+[![Site](https://img.shields.io/website-up-down-green-red/http/monip.org.svgwebsite:http://fabiojunio.cloud)]
  
 [![Site](https://img.shields.io/website?label=FabioJunio.Cloud&style=for-the-badge&url=https://fabiojunio.cloud/)](https://fabiojunio.cloud)
 
