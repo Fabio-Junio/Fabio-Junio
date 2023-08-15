@@ -2,7 +2,7 @@
 
 Eu sou o Fábio Júnio ✌️ 
 
-[![Site](https://img.shields.io/website?label=FabioJunio.Cloud&style=for-the-badge&url=https://fabiojunio.cloud/)](https://fabiojunio.cloud)
+[![Site](https://img.shields.io/website?label=fabiojunio.com.br&style=for-the-badge&url=https://fabiojunio.cloud/)](https://fabiojunio.com.br)
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com)
 
