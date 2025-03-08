@@ -4,7 +4,7 @@ Eu sou o Fábio Júnio ✌️
 
 [![Site](https://img.shields.io/website?label=fabiojunio.com.br&style=for-the-badge&url=https://fabiojunio.com.br/)](https://fabiojunio.com.br)
 
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@AzureXplorer)]
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@AzureXplorer)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabiojuniosilva/)
 
